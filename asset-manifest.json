@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d0cfbb6.chunk.css",
-    "main.js": "/static/js/main.8cd4c083.chunk.js",
-    "main.js.map": "/static/js/main.8cd4c083.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.6cc76bc8.chunk.css": "/static/css/2.6cc76bc8.chunk.css",
-    "static/js/2.4d43d901.chunk.js": "/static/js/2.4d43d901.chunk.js",
-    "static/js/2.4d43d901.chunk.js.map": "/static/js/2.4d43d901.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fa26123c829dbb0e5dbaec1252cb0a20.js": "/precache-manifest.fa26123c829dbb0e5dbaec1252cb0a20.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.6cc76bc8.chunk.css.map": "/static/css/2.6cc76bc8.chunk.css.map",
-    "static/css/main.6d0cfbb6.chunk.css.map": "/static/css/main.6d0cfbb6.chunk.css.map",
-    "static/media/App.css": "/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/webgrandmo/robo-friends/static/css/main.fbe9bf8b.chunk.css",
+    "main.js": "/webgrandmo/robo-friends/static/js/main.e64bf6f0.chunk.js",
+    "main.js.map": "/webgrandmo/robo-friends/static/js/main.e64bf6f0.chunk.js.map",
+    "runtime~main.js": "/webgrandmo/robo-friends/static/js/runtime~main.8ccb4c4d.js",
+    "runtime~main.js.map": "/webgrandmo/robo-friends/static/js/runtime~main.8ccb4c4d.js.map",
+    "static/css/2.6cc76bc8.chunk.css": "/webgrandmo/robo-friends/static/css/2.6cc76bc8.chunk.css",
+    "static/js/2.4d43d901.chunk.js": "/webgrandmo/robo-friends/static/js/2.4d43d901.chunk.js",
+    "static/js/2.4d43d901.chunk.js.map": "/webgrandmo/robo-friends/static/js/2.4d43d901.chunk.js.map",
+    "index.html": "/webgrandmo/robo-friends/index.html",
+    "precache-manifest.1e7ddcb075ce0ead8797f155b2058622.js": "/webgrandmo/robo-friends/precache-manifest.1e7ddcb075ce0ead8797f155b2058622.js",
+    "service-worker.js": "/webgrandmo/robo-friends/service-worker.js",
+    "static/css/2.6cc76bc8.chunk.css.map": "/webgrandmo/robo-friends/static/css/2.6cc76bc8.chunk.css.map",
+    "static/css/main.fbe9bf8b.chunk.css.map": "/webgrandmo/robo-friends/static/css/main.fbe9bf8b.chunk.css.map",
+    "static/media/App.css": "/webgrandmo/robo-friends/static/media/SEGA.12a3db8b.woff"
   }
 }
